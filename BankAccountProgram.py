@@ -21,7 +21,7 @@ def main():
 
    # Get the amount to withdraw.
    cash = float(input('How much would you like to withdraw? '))
-   print('I will withdraw that from your account.')
+   print('I will withdra1w that from your account.')
    savings.withdraw(cash)
 
    # Display the balance.
