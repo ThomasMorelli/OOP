@@ -11,3 +11,4 @@ class Insect:
 
     def get_miles(self):
         return self.flight_distance
+    
